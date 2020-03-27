@@ -63,6 +63,8 @@ h1{
     margin: 10% 20%;
     background-color: rgba(219, 13, 75, 0.794);
     border-radius: 10px;
+    border: 1px rgba(219, 13, 75, 0.794);
+    text-align:center;
 }
 h4{
     text-align: center;
